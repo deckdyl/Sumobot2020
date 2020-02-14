@@ -1,0 +1,15 @@
+stm32g4xx_ll_tim.h:1981:22:LL_TIM_EnableCounter	16	static
+stm32g4xx_ll_tim.h:2224:22:LL_TIM_SetCounter	16	static
+stm32g4xx_ll_tim.h:2238:26:LL_TIM_GetCounter	16	static
+stm32g4xx_ll_tim.h:2251:26:LL_TIM_GetDirection	16	static
+stm32g4xx_ll_tim.h:2349:22:LL_TIM_EnableUIFRemap	16	static
+stm32g4xx_ll_tim.h:3602:22:LL_TIM_IC_SetFilter	32	static
+stm32g4xx_ll_tim.h:5392:22:LL_TIM_ClearFlag_UPDATE	16	static
+stm32g4xx_ll_tim.h:5854:22:LL_TIM_EnableIT_UPDATE	16	static
+stm32g4xx_ll_tim.h:5865:22:LL_TIM_DisableIT_UPDATE	16	static
+encoder_speed_pos_fdbk.c:63:13:ENC_Init	32	static
+encoder_speed_pos_fdbk.c:110:13:ENC_Clear	24	static
+encoder_speed_pos_fdbk.c:126:16:ENC_CalcAngle	32	static
+encoder_speed_pos_fdbk.c:170:13:ENC_CalcAvrgMecSpeedUnit	56	static
+encoder_speed_pos_fdbk.c:301:13:ENC_SetMecAngle	32	static
+encoder_speed_pos_fdbk.c:333:15:ENC_IRQHandler	24	static

@@ -1,0 +1,5 @@
+stm32g4xx_ll_dac.h:1997:22:LL_DAC_Enable	16	static
+stm32g4xx_ll_dac.h:2158:22:LL_DAC_TrigSWConversion	16	static
+stm32g4xx_ll_dac.h:2237:22:LL_DAC_ConvertData12LeftAligned	32	static
+dac_ui.c:53:13:DAC_Init	16	static
+dac_ui.c:65:13:DAC_Exec	24	static

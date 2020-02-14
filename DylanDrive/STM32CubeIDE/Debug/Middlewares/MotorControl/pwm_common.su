@@ -1,0 +1,10 @@
+stm32g4xx_ll_bus.h:915:22:LL_APB1_GRP1_EnableClock	24	static
+stm32g4xx_ll_bus.h:997:26:LL_APB1_GRP1_IsEnabledClock	16	static
+stm32g4xx_ll_bus.h:1071:22:LL_APB1_GRP1_DisableClock	16	static
+stm32g4xx_ll_tim.h:2141:26:LL_TIM_GetCounterMode	16	static
+stm32g4xx_ll_tim.h:3929:22:LL_TIM_SetTriggerOutput	16	static
+stm32g4xx_ll_tim.h:5414:22:LL_TIM_ClearFlag_CC1	16	static
+stm32g4xx_ll_tim.h:5425:26:LL_TIM_IsActiveFlag_CC1	16	static
+stm32g4xx_ll_tim.h:6519:22:LL_TIM_GenerateEvent_UPDATE	16	static
+pwm_common.c:76:13:startTimers	16	static
+pwm_common.c:107:13:waitForPolarizationEnd	32	static

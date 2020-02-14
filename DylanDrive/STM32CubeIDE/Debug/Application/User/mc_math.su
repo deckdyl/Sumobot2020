@@ -1,0 +1,9 @@
+stm32g4xx_ll_cordic.h:724:22:LL_CORDIC_WriteData	16	static
+stm32g4xx_ll_cordic.h:735:26:LL_CORDIC_ReadData	16	static
+mc_math.c:57:20:MCM_Clarke	40	static
+mc_math.c:126:13:MCM_Park	56	static
+mc_math.c:230:20:MCM_Rev_Park	48	static
+mc_math.c:280:24:MCM_Trig_Functions	24	static
+mc_math.c:310:16:MCM_Sqrt	24	static
+mc_math.c:339:16:MCM_PhaseComputation	16	static
+mc_math.c:358:17:MCM_floatToIntBit	24	static

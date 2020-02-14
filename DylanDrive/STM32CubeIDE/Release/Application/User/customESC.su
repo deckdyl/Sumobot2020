@@ -1,0 +1,15 @@
+customESC.c:7:6:ESC_Read_Flash	12	static
+customESC.c:25:6:ESC_Write_Flash	48	static
+customESC.c:85:6:ESC_UART_Init	8	static
+customESC.c:122:6:ESC_UART_TX_Feedback	40	static
+customESC.c:189:19:FDCAN1_RX_Filter_Init	40	static
+customESC.c:207:6:CAN_TX_Init_Data	4	static
+customESC.c:223:19:FDCAN1_TX	48	static
+customESC.c:236:6:ESCReg_Read	8	static
+customESC.c:252:6:ESCReg_Write	24	static
+customESC.c:272:6:ESCRegister_Update_Action	24	static
+customESC.c:373:6:ESCReg_Refreshed	0	static
+customESC.c:384:6:ESCReg_Init	4	static
+customESC.c:394:6:ESCReg_Clear	0	static
+customESC.c:400:6:ESCReg_UpdateCycle	24	static
+customESC.c:427:6:validata	4	static
